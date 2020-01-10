@@ -13,9 +13,7 @@ public class App {
         String transform = args[2];
 
         // instantiate bitmap class
-        Bitmap read = new Bitmap(infile, outfile, transform);
-
+        new Bitmap(infile, outfile, transform);
         // run transform method
-        System.out.println(read.printUserInputs());
     }
 }
