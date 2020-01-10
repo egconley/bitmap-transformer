@@ -4,11 +4,16 @@
 package bitmapTransformer;
 
 public class App {
-    public String getGreeting() {
-        return "Hello world.";
-    }
 
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+        // gather user input
+        // store CLI arguments in variables
+        String infile = args[0];
+        String outfile = args[1];
+        String transform = args[2];
+
+        // instantiate bitmap class
+        new Bitmap(infile, outfile, transform);
+        // run transform method
     }
 }
