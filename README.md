@@ -20,4 +20,4 @@ Bitmap Transformer CLI takes a .bmp image file, converts the image to grayscale,
 
 ## Acknowledgments
 
-* 
+* Uses GrayScale Conversion method from [tutorialspoint](https://www.tutorialspoint.com/java_dip/grayscale_conversion.htm).
