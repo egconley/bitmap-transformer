@@ -1,4 +1,4 @@
-# bitmap-transformer
+# Bitmap Transformer CLI
 
 Bitmap Transformer CLI takes a .bmp image file, converts the image to grayscale, and writes the new .bmp grayscale image to the /assets folder of the project.
 
