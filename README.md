@@ -6,12 +6,12 @@ Bitmap Transformer CLI takes a .bmp image file, converts the image to grayscale,
 
 - Navigate into the project folder from the terminal
 - Save a .bmp image in the assets folder 
-- type for example, `./gradlew run --args 'mario.bmp graymario.bmp gray'
+- From the terminal, type for example, `./gradlew run --args 'mario.bmp graymario.bmp gray'`
 
 ## Built With
 
 * [Java](https://www.java.com/en/)
-* [Gradle](https://gradle.org/) - Dependency Management
+* [Gradle](https://gradle.org/)
 
 ## Authors
 
